@@ -23,3 +23,4 @@ Finally...
 
 Make some changes to any and all files and then be sure to visit the Git tab in the upper right hand pane.  There, you will see all the files that were created for this repo.  
 
+![A Git Panel Screenshot in RStudio](GitBrowserRstudio.png)
