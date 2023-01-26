@@ -1,0 +1,26 @@
+---
+title: "MRES Ideas"
+author: MRES Members
+output:
+  html_document:
+    df_print: paged
+    toc: true
+    toc_float: true
+---
+
+|                                        |                Website                |
+|:----------------------------------:|:----------------------------------:|
+| ![MRES](MresLogoV2green.png "Our New Logo") | ![Click Me](MRESqrcode.png "QR Code for Website") |
+|    :------------------------------:    |   :------------------------------:    |
+
+# January 25th, 2023: ML/AI algorithms are not suitable for scientific discovery
+
+Why would I start on such a negative note? My conclusion is neither controversial nor productive. I simply want to distance my thoughts from these models and focus on science. You know...science.  The ole fallible process that leads us to describe, predict and control outcomes we understand.  Despite the lack of suitability between these algorithms, I cannot keep my eyes away from them - kind of like a train wreck that nobody can resist staring at while driving. Regardless, I think it is important that scientists provide some insights into why these tools have great promise for what we already know but not much promise for what we do not know. We require a replicable mechanism for real control.  These algorithms fail to provide any mechanism and, as such, fail to provide us with the ability to control; they rely on what we already know to produce predictions.  Too much time and energy went into worrying about chatGPT over the past month or two.  That energy would have been better spent focusing on potential mechanisms of the many problems we face today.  Instead, people are worried that the algorithms will tarnish the educational process.  That forecast requires more attention later.  For today's post, I simply want to state that the failure to produce a mechanism of action in the predicitive model makes these learning methods very useful for what we know but absolutely useless for what we don't know.  The mechanisms in science cannot be known unless they are already known. Perhaps that characterization seems extreme but I think that captures the gist of why I am apprehensive. 
+
+Let me explore something simple as a thought exercise. We know the answer but the algorithm does not.
+
+We have a ton of knowledge that exists today that does not predict in any meaningful way what we wish to predict. Models predict cancer but those predictions are really poor. Most algorithms that we now hold in high esteem only function on fitting NOT predicting. We do have prediction, however, in these deep learning models - provided there is an outcome that was captured (i.e., supervised learning). There is another supervision that we need in all models and that is supervision by theory. Are our theories always correct? Nope. Many offer merely the possibility of a mechanism. What happens if there are three mechanisms that all actively contribute to an outcome.
+
+```{r }
+
+```
